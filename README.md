@@ -1,6 +1,7 @@
-A Simple Card game made in Unity
+A Simple 2-player Card game made in Unity
 
-Local 2-Player Card Game
+![image](https://github.com/user-attachments/assets/2dee321a-184c-43a6-84e8-25c4ceae6005)
+
 
 Instructions:-
 
@@ -10,4 +11,4 @@ Instructions:-
 4. The other player is declared the winner.
 
 
-Download the files and open the project through unity to play
+Download the files and open the project through Unity to play
