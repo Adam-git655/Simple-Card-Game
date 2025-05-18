@@ -1,0 +1,12 @@
+# ninja log v5
+10453	20604	7687614707062606	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	15f52fbf2c2aa9f6
+20705	27233	7687614776079752	D:/ADAMYA/unity projects/Simple Card Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2wzh61io/obj/arm64-v8a/libswappywrapper.so	8a76215b42d7aac4
+546	27474	7687614777128669	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7e9b3dc64d081fdd
+74	27773	7687614782847164	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	89a03690fccb3c90
+141	28717	7687614792342748	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	a14cfe5dc65f56c7
+1290	28836	7687614794119975	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9801647af286ce7d
+3140	30862	7687614815420881	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	de687577ed08bb8b
+5603	31193	7687614819598150	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c37abb49ba23b4d
+8483	31285	7687614820753138	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	70882ee28e6e811
+4	32204	7687614829475289	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f3522144a6e8990d
+32207	33225	7687614839458425	D:/ADAMYA/unity projects/Simple Card Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2wzh61io/obj/arm64-v8a/libgame.so	49c98bae004be3
